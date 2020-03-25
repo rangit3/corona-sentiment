@@ -4,7 +4,7 @@
 
 This repo contains the code that was used to obtain the results of the paper [Fine-grained Sentiment Classification using BERT](https://arxiv.org/abs/1910.03474).
 
-## Usage
+## Usage - Inference only. For training use the original repository
 
 Experiments for various configuration can be run using the `run.py`. First of all, install the python packages (preferably in a clean virtualenv): `pip install -r requirements.txt`
 
