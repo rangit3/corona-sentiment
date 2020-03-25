@@ -2,7 +2,9 @@
 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/fine-grained-sentiment-classification-using/sentiment-analysis-on-sst-5-fine-grained)](https://paperswithcode.com/sota/sentiment-analysis-on-sst-5-fine-grained?p=fine-grained-sentiment-classification-using)
 
-This repo contains the code that was used to obtain the results of the paper [Fine-grained Sentiment Classification using BERT](https://arxiv.org/abs/1910.03474).
+This repo contains the code for the kaggle notebook [here](https://www.kaggle.com/ranlevy/how-good-is-a-drug-against-the-corona-virus).
+
+The code is based on the code of the paper [Fine-grained Sentiment Classification using BERT](https://arxiv.org/abs/1910.03474).
 
 ## Usage - Inference only. For training use the original repository
 
